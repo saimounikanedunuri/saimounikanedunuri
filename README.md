@@ -18,9 +18,9 @@
 - 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/sai-mounika-nedunuri-484222b3/).
 - 🤔 I’m looking for help with PySpark.
 - 💬 Ask me about OpenCV or any tech-related stuff.
-- 📫 How to reach me: [Gmail - @saimounika](saimounikanedunuri@gmail.com)
+- 📫 How to reach me: [Gmail - saimounikanedunuri@gmail.com(saimounikanedunuri@gmail.com)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I spend almost 10 hours listening to songs every day.
+- ⚡ Fun fact: I love to explore new technologies, curious in gaining knowledge through reading books!.
 
 ### Show some ❤️ by starring some of the repositories!
 
