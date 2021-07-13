@@ -1,4 +1,4 @@
-## Hola, I'm [Sai Mounika Nedunuri!](https://pawan.live) 👋
+## Hola, I'm [Sai Mounika Nedunuri!](https://github.com/saimounikanedunuri/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
