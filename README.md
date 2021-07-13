@@ -22,31 +22,6 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I spend almost 10 hours listening to songs every day.
 
-**Languages and Tools:**  
-
-<code><img height="20" src="/home/ammulya/Pictures/mona/py.png"></code>
-<code><img height="20" src="/home/ammulya/Pictures/mona/PySpark.jpeg"></code>
-<code><img height="20" src="/home/ammulya/Pictures/mona/aws.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
-<a href="https://github.com/saimounikanedunuri">
-  <img align="center" src="https://github.com/saimounikanedunuri" />
-</a>
-<a href="https://github.com/saimounikanedunuri">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Sai Mounika's github stats"/>
-</a>
-<a href="https://github.com/saimounikanedunuri/react_native_youtube">
-  <img align="center" src="https://github.com/saimounikanedunuri/react_native_youtube" />
-
-</a>
-<a href="https://github.com/saimounikanedunuri/react_js">
- <img align="center" src="=https://github.com/saimounikanedunuri/react_js" />
-</a>
-
-<div align="center">
-
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
