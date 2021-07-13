@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/sai-mounika-nedunuri-484222b3/).
 - 🤔 I’m looking for help with PySpark.
 - 💬 Ask me about OpenCV or any tech-related stuff.
-- 📫 How to reach me: [Gmail - saimounikanedunuri@gmail.com(saimounikanedunuri@gmail.com)
+- 📫 How to reach me: [Gmail - saimounikanedunuri@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Sharing is caring! I am interested in sharing the gained knowledge :)
 
