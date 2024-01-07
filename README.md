@@ -14,7 +14,7 @@
 
 
 - 🔭 I’m currently working on [Python](https://www.python.org/).
-- 🌱 I’m curious to learn more about Data analysis.
+- 🌱 I’m curious to learn more about Data Engineering.
 - 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/sai-mounika-nedunuri-484222b3/).
 - 🤔 I’m looking for help with PySpark.
 - 💬 Ask me about OpenCV or any tech-related stuff.
